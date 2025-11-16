@@ -1,5 +1,6 @@
 # RETROPAD PS4 Controller ESP32
 
+<p align="center"><img src="https://github.com/edupez/RetroPAD_PS4_Controller_ESP32/blob/main/Logo%20ps4%20interface.png" width="400"></a></p>
 
 This project is an interface designed to connect a modern PlayStation 4 (PS4) controller to old gaming consoles and vintage computers that use different types of physical control ports.
 Its main objective is to bridge the technological gap between modern Bluetooth controllers and legacy systems that were originally designed for simple wired digital inputs. By converting PS4 controller commands into hardware signals that are compatible with classic devices, this interface allows players to use modern, ergonomic controllers without modifying or altering the original equipment.
