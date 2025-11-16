@@ -1,4 +1,4 @@
-# -PS4-Controller-ESP32-project
+RETROPAD PS4 Controller ESP32
 
 
 This project is an interface designed to connect a modern PlayStation 4 (PS4) controller to old gaming consoles and vintage computers that use different types of physical control ports.
